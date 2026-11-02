@@ -21,5 +21,3 @@ or any library, to understand bare-metal code structure.
 - src/ : source code
 - docs/ : wiring diagram and photos
 
-## Result
-[Add a photo or a video link here]
