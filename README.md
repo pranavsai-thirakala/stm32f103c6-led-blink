@@ -4,8 +4,8 @@ Register-level LED blink program for the STM32F103C6, written without HAL
 or any library, to understand bare-metal code structure.
 
 ## Hardware
-- STM32F103C6 [Blue Pill / your board name]
-- LED connected to pin [PXx] with [resistor value] resistor
+- STM32F103C6 [Blue Pill]
+- LED connected to pin [PA2] 
 - Programmer: [ST-Link / USB-UART]
 
 ## Software
